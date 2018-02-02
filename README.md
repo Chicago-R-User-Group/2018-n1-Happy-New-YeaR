@@ -13,6 +13,8 @@ See Jupyter Notebooks including R scripts and Meetup API and Census data:
 - Apply Family Demo
 - Benchmark Demo
 
+Although mostly a **live** demo, some slides of the talk are here: (https://prezi.com/i3qd1ktikjv5/back-to-basics-with-base-r/)
+
 ## 12:00-12:30 pm: IDBac: A Shiny App to Analyze Bacterial Fingerprints and Aid in the Discovery of Potential New Antibiotics
 
 Then, good tidyings we bring: Chase Clark (https://chasemc.github.io/IDBac/) will demo a Shiny application intended to make spectroscopy analyses more accessible and highlight the usability features.
