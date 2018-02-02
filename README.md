@@ -6,7 +6,12 @@ We have two great talks lined up, with discussion time and working time built-in
 
 ## 11:00-11:30 am: Back to Basics with Base R
 
-Should auld acquaintance be forgot? No! Parfait Gasana (https://stackoverflow.com/users/1422451/parfait) will demonstrate the pros and cons of base R, including applications of the apply family, and draw comparisons to dplyr and data.table.
+Should an old acquaintance be forgotten? No! Parfait Gasana (https://stackoverflow.com/users/1422451/parfait) will demonstrate the pros and cons of base R, including applications of the apply family, and draw comparisons to dplyr and data.table.
+
+See Juypter Notebooks including R scripts and data:
+
+- Apply Family Demo
+- Benchmark Demo
 
 ## 12:00-12:30 pm: IDBac: A Shiny App to Analyze Bacterial Fingerprints and Aid in the Discovery of Potential New Antibiotics
 
