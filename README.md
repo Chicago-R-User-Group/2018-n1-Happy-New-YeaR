@@ -8,7 +8,7 @@ We have two great talks lined up, with discussion time and working time built-in
 
 Should an old acquaintance be forgotten? No! Parfait Gasana (https://stackoverflow.com/users/1422451/parfait) will demonstrate the pros and cons of base R, including applications of the apply family, and draw comparisons to dplyr and data.table.
 
-See Juypter Notebooks including R scripts and data:
+See Jupyter Notebooks including R scripts and Meetup API and Census data:
 
 - Apply Family Demo
 - Benchmark Demo
