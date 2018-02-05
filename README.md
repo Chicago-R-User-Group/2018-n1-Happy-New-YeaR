@@ -19,6 +19,9 @@ Although mostly a **live** demo, some slides of the talk are here: (https://prez
 
 Then, good tidyings we bring: Chase Clark (https://chasemc.github.io/IDBac/) will demo a Shiny application intended to make spectroscopy analyses more accessible and highlight the usability features.
 
+Slides are available [here](https://github.com/chasemc/Jan2018ShinyMeetupCRUG/blob/master/CRUG-Jan-2018-Presentation.pdf)
+And a blog post for more info on shiny and some examples [here.](https://chasemc.github.io/post/a-shiny-new-world/)
+
 ## 1:00-2:00 pm - 
 Stick around for Q&A, to refactor your code, or to build a Shiny app.
 
